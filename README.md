@@ -1,6 +1,7 @@
 # HackAIthon_Spambots
 
 Team Name: Spambots
+
 Team Members: Divyam Khorwal, Janesh Kapoor, Tushar Chandra, Varsha Bhaskar
 
 📌Project Name: ElectriGo.📌
