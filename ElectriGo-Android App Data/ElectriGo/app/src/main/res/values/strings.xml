@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ElectriGo</string>
+    <string name="electrigo">ElectriGo</string>
+    <string name="logout">Logout</string>
+    <string name="locate_charging_stations" />
+    <string name="battery_health">Battery Health</string>
+    <string name="scooter_image">Scooter Image</string>
+</resources>
